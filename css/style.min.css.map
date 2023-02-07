@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAEA,KACE,kBAHM,CAKN,QACE,eAAA,CAGJ,EACE,uBAAA","file":"style.min.css","sourcesContent":["$color: #fcfcfc;\r\n\r\nbody{\r\n  background: $color;\r\n\r\n  h1{\r\n    font-weight: 600;\r\n  }\r\n}\r\na{\r\n  transition: all 0.3s ease;\r\n}"]}

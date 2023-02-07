@@ -1,0 +1,12 @@
+$color: #fcfcfc;
+
+body{
+  background: $color;
+
+  h1{
+    font-weight: 600;
+  }
+}
+a{
+  transition: all 0.3s ease;
+}
